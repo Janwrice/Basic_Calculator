@@ -1,0 +1,1 @@
+This is a basic calculator implemented in C++ that can handle decimals, negative numbers, and nested parentheses in expressions. It can also deal with spaces in the expression, unmatched parentheses, and division by zero.
