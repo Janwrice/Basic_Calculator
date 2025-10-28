@@ -1,7 +1,7 @@
 //使用示例：
 
 #include<iostream>
-#include"calc.hpp"
+#include"calc.h"
 int main(void){
 	//创建计算对象并运行交互计算函数：
 	Calc c;
